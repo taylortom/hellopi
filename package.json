@@ -2,7 +2,9 @@
   "name": "hellopi",
   "version": "1.0.0",
   "description": "Testing RPi",
-  "scripts": { "start": "index.js" },
+  "scripts": {
+    "start": "node index"
+  },
   "author": "Thomas Taylor <hello@tomtaylor.name>",
   "license": "MIT",
   "dependencies": {
